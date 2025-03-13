@@ -24,6 +24,11 @@ def obtener_asiento(nombre):
     # Parte 2
     ...
 
+# Ejercicio 5
+def comprobar_minuto(tiempo, minuto):
+    ...   
+    
+
 # Para llamar y comprobar tus funciones
 def main():
     ...
