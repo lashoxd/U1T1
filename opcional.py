@@ -12,6 +12,15 @@ def contar_vocales(palabra):
 def calcular_suma_digitos(numero):
     ...
 
+# Ejercicio 3
+def calcular_palabras(cadena):
+    ...
+
+# Ejercicio 4
+def obtener_max_min(lista):
+    ...
+    
+
 
 # Para llamar y comprobar tus funciones
 def main():

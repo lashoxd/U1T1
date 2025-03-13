@@ -27,7 +27,15 @@ def obtener_asiento(nombre):
 # Ejercicio 5
 def comprobar_minuto(tiempo, minuto):
     ...   
-    
+
+# Ejercicio 6
+def es_palindromo(cadena):
+    ...
+
+# Ejercicio 7
+def generar_fibonacci(N):
+    ...
+
 
 # Para llamar y comprobar tus funciones
 def main():
